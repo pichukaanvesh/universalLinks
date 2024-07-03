@@ -1,11 +1,13 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "3DLMD957M6.com.LeMatinal",
-        "paths": [ "*" ]
-      }
-    ]
-  }
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "3DLMD957M6.com.LeMatinal",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
 }
